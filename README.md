@@ -1,6 +1,5 @@
 ## 👨‍💻 Desafio de Projeto CSS: Construindo um Layout Responsivo Para o Site do Discord Com CSS
-Projeto de HMTL e CSS do clone da página do Discord usando os conceitos de responsividade e mobile first.<br>
-Esse projeto foi proposto pela expert Michele Ambrosio da plataforma educacional DIO na Formação CSS Developer.
+Este projeto consiste na criação de um clone da página do Discord utilizando HTML e CSS, com foco em responsividade e na abordagem mobile first. O desafio foi proposto pela expert Michele Ambrosio, como parte da Formação CSS Developer oferecida na plataforma educacional DIO.
 
 ## 💻 Tecnologias usadas:
 <div style="display: inline_block">
